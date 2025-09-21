@@ -1,11 +1,6 @@
-# React + Vite
+# Product List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ProductList is a modern, responsive web application built from scratch using React and Vite. The project showcases a fully designed and interactive product listing interface with a clean and polished UI. It is styled using TailwindCSS, ensuring responsiveness across desktop, tablet, and mobile devices.
 
 ## Expanding the ESLint configuration
 
