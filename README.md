@@ -5,3 +5,10 @@ ProductList is a modern, responsive web application built from scratch using Rea
 ## Tech Stack
 
 React, Vite, TailwindCSS, HTML, JavaScript.
+
+## Key Features
+1) Dynamic product listing with React components
+2) Fully responsive layout using TailwindCSS
+3) Modern UI design with smooth interactivity
+4) Lightweight and fast performance using Vite
+5) Easy to maintain and extend
